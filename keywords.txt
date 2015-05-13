@@ -1,0 +1,17 @@
+Due_Leds KEYWORD2
+image KEYWORD2
+rgbColor KEYWORD2
+display KEYWORD2
+clear KEYWORD2
+showImage  KEYWORD2
+moveImageLeft KEYWORD2
+moveImageRight KEYWORD2
+moveImageUp KEYWORD2
+moveImageDown KEYWORD2
+setLed KEYWORD2
+setPixel KEYWORD2
+fillLeds KEYWORD2
+getLedColor KEYWORD2
+getLedPos KEYWORD2
+copyPixelRight KEYWORD2
+copyPixelLeft KEYWORD2
